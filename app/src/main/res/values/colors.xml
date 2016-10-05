@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#010310</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="blockerBackground">#96000000</color>
+    <color name="blockerTextColor">#d1d1d1</color>
+
+
+    <color name="red">#e7574f</color>
+    <color name="semi_red">#81e7574f</color>
+
+    <color name="green">#6fce66</color>
+    <color name="semi_green">#8a6fce66</color>
+
+    <color name="blue">#6d6de7</color>
+    <color name="semi_blue">#7d6d6de7</color>
+
+    <color name="yellow">#edde65</color>
+    <color name="semi_yellow">#84edde65</color>
+</resources>
